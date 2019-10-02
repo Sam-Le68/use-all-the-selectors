@@ -41,6 +41,7 @@ main + ul li:nth-child(3) rel {
 main ol + li {
   color: #719e47;
 }
+
 main ol li:nth-child(3) {
   color: #2aa198;
 }
